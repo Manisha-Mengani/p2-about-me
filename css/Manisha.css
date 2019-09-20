@@ -1,0 +1,53 @@
+body {
+  padding-top: 10rem;
+}
+
+body, html {
+  height: 100%;
+}
+
+.video-wrapper {
+  width: 100%;
+   background-color: torquiseblue;
+}
+
+
+section {
+  margin: 1rem;
+  padding: 2rem;
+  background-color: torquiseblue;
+  border-radius: 4em;
+}
+
+img{
+	
+border-radius: 50%;
+}
+
+#aboutMe{
+
+background-color: lightblue;
+color: black;
+padding: 10px;
+text-align: center; 
+}
+
+#collegeschedule{
+background-color: lightblue;
+color: black;
+padding: 10px;
+text-align: center;
+}
+
+
+.bgimg {
+  background-image: url("Background1.jpg");
+  height: 100%;
+  position: relative;
+  opacity: 0.85;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; /* fixed in viewport */
+}
+
