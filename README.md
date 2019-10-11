@@ -7,13 +7,13 @@
 -  [Repo link](https://github.com/profcase/about-me-00)
 -  [back ground](https://www.freepik.com/free-photos-vectors/white-background)
 -  [source](https://profcase.github.io/web-apps-list)
--
+
 
 ## About
 
--This page is the a web page with html and css styling.
+- This page is the a web page with html and css styling.
 - It also includes contact me and Area of Triangle calculations pages.
--
+
 
 
  
